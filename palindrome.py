@@ -1,5 +1,5 @@
 import string
-
+#recursive loop for checking if a string is palindrome. 
 def palindrom(str1,start,end):
     if start>=end:
         return True
